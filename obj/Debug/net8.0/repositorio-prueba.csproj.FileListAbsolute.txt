@@ -1,0 +1,15 @@
+/workspaces/repositorio-prueba/bin/Debug/net8.0/repositorio-prueba
+/workspaces/repositorio-prueba/bin/Debug/net8.0/repositorio-prueba.deps.json
+/workspaces/repositorio-prueba/bin/Debug/net8.0/repositorio-prueba.runtimeconfig.json
+/workspaces/repositorio-prueba/bin/Debug/net8.0/repositorio-prueba.dll
+/workspaces/repositorio-prueba/bin/Debug/net8.0/repositorio-prueba.pdb
+/workspaces/repositorio-prueba/obj/Debug/net8.0/repositorio-prueba.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/repositorio-prueba/obj/Debug/net8.0/repositorio-prueba.AssemblyInfoInputs.cache
+/workspaces/repositorio-prueba/obj/Debug/net8.0/repositorio-prueba.AssemblyInfo.cs
+/workspaces/repositorio-prueba/obj/Debug/net8.0/repositorio-prueba.csproj.CoreCompileInputs.cache
+/workspaces/repositorio-prueba/obj/Debug/net8.0/repositorio-prueba.sourcelink.json
+/workspaces/repositorio-prueba/obj/Debug/net8.0/repositorio-prueba.dll
+/workspaces/repositorio-prueba/obj/Debug/net8.0/refint/repositorio-prueba.dll
+/workspaces/repositorio-prueba/obj/Debug/net8.0/repositorio-prueba.pdb
+/workspaces/repositorio-prueba/obj/Debug/net8.0/repositorio-prueba.genruntimeconfig.cache
+/workspaces/repositorio-prueba/obj/Debug/net8.0/ref/repositorio-prueba.dll
